@@ -1,12 +1,12 @@
-# The Virtual Library
-This repository is developed for Swedish speaking users, at least the UX of the program. This project is all about being able to navigate, or loan books by using the program. 
+# Virtual Library
+This is a console based C# program that consist of a virtual library where you can create your own local library.
 
 ## What to know
-The UX of the project is in Swedish!
+The program is in Swedish lol
 
 ## Built With
 
-* [Visual Studio](https://visualstudio.microsoft.com/) - The IDE that was used to develop the program
+* [Visual Studio](https://visualstudio.microsoft.com/) - IDE used to develop the program
 
 ## Authors
 
