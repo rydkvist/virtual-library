@@ -2,7 +2,7 @@
 This is a console based C# program that consist of a virtual library where you can create your own local library.
 
 ## What to know
-The program is in Swedish lol
+The program is in Swedish xD
 
 ## Built With
 
