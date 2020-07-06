@@ -1,8 +1,8 @@
 # Virtual Library
-This is a console based C# program that consist of a virtual library where you can create your own local library.
+This is a C# program that consist of a virtual local library where you can add authors, add books, remove books, loan books, etc.. 
 
 ## What to know
-The program is in Swedish xD
+The whole user interface is in Swedish.
 
 ## Built With
 
